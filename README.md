@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DomeniqueRosa
+- 👋 Hi, I’m @AliresRosa
 - 👀 I’m interested in slq and python 
 - 🌱 I’m currently learning html, css and php
 - 📫 How to reach me aliresrosa@gmail.com
