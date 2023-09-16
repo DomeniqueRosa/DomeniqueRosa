@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliresRosa
 - 👀 I’m interested in slq and python 
 - 🌱 I’m currently learning html, css and php
-- 📫 How to reach merosaalires@gmail.com
+- 📫 How to reach me rosaalires@gmail.com
 
 <!---
 DomeniqueRosa/DomeniqueRosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
