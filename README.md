@@ -1,6 +1,5 @@
 # Domenique Rosa
-
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UFPR, estou no 4º período e em busca de estágio na área para aplicar e aprimorar as habilidades adquiridas durante o curso.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UFPR, cursando o 4º período. Possuo grande interesse em desenvolvimento web e estou sempre buscando novos desafios para aprimorar minhas habilidades.
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
